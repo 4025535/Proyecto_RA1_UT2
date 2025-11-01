@@ -1,0 +1,3 @@
+# Reflexión personal
+
+Creo que el tipo de chasis influye bastante en cómo se usa el ordenador cada día. Las torres grandes suelen tener más ventiladores grandes que hacen menos ruido y mantienen mejor la temperatura, mientras que las mini torres ocupan poco sitio pero se calientan antes si llevan piezas potentes. También me parece importante que sea fácil abrir el chasis para limpiar o cambiar piezas sin complicarse con los cables. En materiales, el acero es resistente y el vidrio templado queda muy bien si te gusta ver los componentes, aunque pesa más. Para jugar o trabajar con programas exigentes prefiero una torre grande por la ventilación y el espacio, pero para oficina una pequeña silenciosa me parece suficiente.
